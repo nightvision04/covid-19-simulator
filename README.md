@@ -25,6 +25,6 @@ Your participation is critical to limiting peak pressure on the medical system. 
 #### Contributors
 Have an idea to make this simulator better? Send a pull request!
 
-<video controls>
-  <source src="https://thumbs.gfycat.com/HandyCircularGelada-mobile.mp4" type="video/mp4">
-</video>
+<img src='https://thumbs.gfycat.com/HandyCircularGelada-size_restricted.gif'>
+
+See in HD: https://gfycat.com/handycirculargelada
